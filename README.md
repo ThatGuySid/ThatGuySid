@@ -64,7 +64,7 @@ React, frontend development, and building projects from scratch.
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Outside VS code
 
 I play guitar, and I'm working on myself — both inside and outside the IDE.
 
