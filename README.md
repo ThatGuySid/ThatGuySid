@@ -19,7 +19,7 @@
 
 - I build full-stack and mobile products end-to-end — not prototypes.
 - Focused on real-time systems, AI integration, and secure multi-user architecture.
-- Led a 6-person team at Uptoskills; shipped HerFlow solo, a production React Native app with a custom prediction algorithm and Gemini AI integration.
+- Shipped HerFlow solo, a production React Native app with a custom prediction algorithm and Gemini AI integration.
 
 ---
 
