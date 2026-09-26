@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Sid 👋</h1>
+<h1 align="center">Hi, I'm Sid ðŸ‘‹</h1>
 
 <p align="center">
-  Frontend Developer · DSA Learner · Builder of things that matter
+  Full-Stack Developer Â· DSA Learner Â· Builder of things that matter
 </p>
 
 <p align="center">
@@ -17,45 +17,54 @@
 
 ## About Me
 
-- I enjoy building practical products that solve real problems.
-- Currently focused on improving DSA, Python, and system design.
-- Open to meaningful collaborations in backend development and product design.
+- I build full-stack and mobile products end-to-end â€” not prototypes.
+- Focused on real-time systems, AI integration, and secure multi-user architecture.
+- Led a 6-person team at Uptoskills; shipped HerFlow solo, a production React Native app with a custom prediction algorithm and Gemini AI integration.
 
 ---
 
-## 🔭 Currently Building
+## ðŸ”­ Featured Projects
 
-**HerFlow** — A PCOS wellness and care app aimed at creating better support and awareness.
+**[LLD Practice Lab](https://github.com/ThatGuySid/LLD-Practice-problems)** â€” AI-evaluated low-level-design practice platform
+- React Â· Node.js/Express Â· PostgreSQL Â· Gemini API
 
-- Looking for a **backend developer** to build with me (Node.js, Express, databases)
-- Also open to **UI/design collaborators** — Figma side, no coding required
+**[HerFlow](https://github.com/ThatGuySid/PCOS)** â€” PCOS wellness & cycle tracking app
+- React Native (Expo) Â· TypeScript Â· Firebase Â· Gemini API
+- Looking for a **backend developer** or **UI/design collaborator** (Figma) to keep building this with me
 
-✅ Shipped: **HRMS Social Connect**
+âœ… Shipped: **HRMS Social Connect**
 
 ---
 
-## 👯 Looking to Collaborate
+## ðŸ‘¯ Looking to Collaborate
 
 - Backend development for HerFlow (APIs, auth, database design)
 - UI/UX design collaborations (Figma-first, no coding required)
 
 ---
 
-## 💬 Ask Me About
+## ðŸ’¬ Ask Me About
 
-React, frontend development, and building projects from scratch.
+Full-stack development, React/React Native, system design, and AI integration into products.
 
 ---
 
-## 🛠 Languages and Tools
+## ðŸ›  Languages and Tools
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -64,13 +73,13 @@ React, frontend development, and building projects from scratch.
 
 ---
 
-## ⚡ Outside VS code
+## âš¡ Outside VS code
 
-I play guitar, and I'm working on myself — both inside and outside the IDE.
+I play guitar, and I'm working on myself â€” both inside and outside the IDE.
 
 ---
 
-## 📊 GitHub Stats
+## ðŸ“Š GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThatGuySid&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
