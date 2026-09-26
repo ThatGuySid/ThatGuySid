@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Sid ðŸ‘‹</h1>
+<h1 align="center">Hi, I'm Sid 👋</h1>
 
 <p align="center">
-  Full-Stack Developer Â· DSA Learner Â· Builder of things that matter
+  Full-Stack Developer · DSA Learner · Builder of things that matter
 </p>
 
 <p align="center">
@@ -17,39 +17,39 @@
 
 ## About Me
 
-- I build full-stack and mobile products end-to-end â€” not prototypes.
+- I build full-stack and mobile products end-to-end — not prototypes.
 - Focused on real-time systems, AI integration, and secure multi-user architecture.
 - Led a 6-person team at Uptoskills; shipped HerFlow solo, a production React Native app with a custom prediction algorithm and Gemini AI integration.
 
 ---
 
-## ðŸ”­ Featured Projects
+## 🔭 Featured Projects
 
-**[LLD Practice Lab](https://github.com/ThatGuySid/LLD-Practice-problems)** â€” AI-evaluated low-level-design practice platform
-- React Â· Node.js/Express Â· PostgreSQL Â· Gemini API
+**[LLD Practice Lab](https://github.com/ThatGuySid/LLD-Practice-problems)** — AI-evaluated low-level-design practice platform
+- React · Node.js/Express · PostgreSQL · Gemini API
 
-**[HerFlow](https://github.com/ThatGuySid/PCOS)** â€” PCOS wellness & cycle tracking app
-- React Native (Expo) Â· TypeScript Â· Firebase Â· Gemini API
+**[HerFlow](https://github.com/ThatGuySid/PCOS)** — PCOS wellness & cycle tracking app
+- React Native (Expo) · TypeScript · Firebase · Gemini API
 - Looking for a **backend developer** or **UI/design collaborator** (Figma) to keep building this with me
 
-âœ… Shipped: **HRMS Social Connect**
+✅ Shipped: **HRMS Social Connect**
 
 ---
 
-## ðŸ‘¯ Looking to Collaborate
+## 👯 Looking to Collaborate
 
 - Backend development for HerFlow (APIs, auth, database design)
 - UI/UX design collaborations (Figma-first, no coding required)
 
 ---
 
-## ðŸ’¬ Ask Me About
+## 💬 Ask Me About
 
 Full-stack development, React/React Native, system design, and AI integration into products.
 
 ---
 
-## ðŸ›  Languages and Tools
+## 🛠 Languages and Tools
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -73,13 +73,13 @@ Full-stack development, React/React Native, system design, and AI integration in
 
 ---
 
-## âš¡ Outside VS code
+## ⚡ Outside VS code
 
-I play guitar, and I'm working on myself â€” both inside and outside the IDE.
+I play guitar, and I'm working on myself — both inside and outside the IDE.
 
 ---
 
-## ðŸ“Š GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThatGuySid&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
